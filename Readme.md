@@ -7,3 +7,6 @@ Incluye los siguientes tópicos:
 * Códigos Python y R
 
 
+## Sesión
+
+Se analizaron fundamentos
