@@ -1,2 +1,9 @@
-Hola este es mi primer proyecto
+# Proyecto: Data Science Fundamentos
+
+Incluye los siguientes tópicos:
+
+* Fundamentos
+* Código Git
+* Códigos Python y R
+
 
