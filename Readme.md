@@ -10,3 +10,5 @@ Incluye los siguientes tópicos:
 ## Sesión
 
 Se analizaron fundamentos
+
+Se agrega esta información Adicional
