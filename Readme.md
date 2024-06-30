@@ -46,5 +46,4 @@ Costo: 10*10%*5= 5
 |Ahorro del nuevo modelo      |40               |
 |-----------------------------|-----------------|
 |Costo de falsos positivos    |5                |
-|-----------------------------|-----------------|
 |Costo de falsos negativos    |50               |
